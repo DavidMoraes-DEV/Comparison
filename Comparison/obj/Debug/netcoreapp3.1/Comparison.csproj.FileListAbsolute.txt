@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.exe
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.deps.json
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.dll
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\bin\Debug\netcoreapp3.1\Comparison.pdb
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.dll
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.pdb
+C:\ProgramasCSharp\ConceitoDeComparison\Comparison\Comparison\obj\Debug\netcoreapp3.1\Comparison.genruntimeconfig.cache
